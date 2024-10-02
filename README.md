@@ -3,7 +3,7 @@
 <a href = "https://www.youtube.com/watch?v=ZVnjOPwW4ZA"> Link To Tutorial </a>
 <br>
 
-Date:-30/09/2024 
+Date:-02/10/2024 
 <br>
 
 This tutorial by Programming with Mosh introduces Next.js 13, focusing on building full-stack applications with TypeScript. 
