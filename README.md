@@ -35,7 +35,7 @@ Each section provides practical examples and emphasizes best practices for devel
 
 ![Screenshot 2024-10-02 224328](https://github.com/user-attachments/assets/9774ffd6-7ff8-408e-8e66-2d67e92081e1)
 
-![Screenshot 2024-10-02 224354](https://github.com/user-attachments/assets/429648ae-0fdf-4517-adca-04de07f4a4df)
+
 
 ![Screenshot 2024-10-02 224446](https://github.com/user-attachments/assets/8fb0bb79-c473-4450-b1ae-ee8859e5e933)
 
